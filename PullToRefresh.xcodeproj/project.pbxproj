@@ -280,9 +280,6 @@
 						CreatedOnToolsVersion = 6.0;
 						TestTargetID = C7D1CF8E199BB3C8009FD485;
 					};
-					C7D1CF8E199BB3C8009FD485 = {
-						CreatedOnToolsVersion = 6.0;
-					};
 				};
 			};
 			buildConfigurationList = C7D1CF8A199BB3C8009FD485 /* Build configuration list for PBXProject "PullToRefresh" */;
