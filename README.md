@@ -20,6 +20,10 @@ tableView.addPullToRefreshWithAction {
 }
 ```
 
+```swift
+tableView.removePullToRefresh()
+```
+
 ###Custom views
 
 Refresher supports custom subclasses of `PullToRefreshView`.
